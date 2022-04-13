@@ -2,8 +2,8 @@ import Versions._
 import Dependencies._
 import ScalacOptions._
 
-val projectName        = "rockthejvm-http4s-demo"
-val projectDescription = "Http4s Demo by rockthejvm"
+val projectName        = "rockthejvm-http4s-tutorial"
+val projectDescription = "Http4s Tutorial by rockthejvm"
 
 ThisBuild / fork                   := true
 ThisBuild / turbo                  := true // default: false

@@ -1,4 +1,4 @@
-# Http4s Demo by *rockthejvm*
+# Http4s Tutorial by *rockthejvm*
 
 See:
 - https://blog.rockthejvm.com/http4s-tutorial/
